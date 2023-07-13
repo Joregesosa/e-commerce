@@ -3,4 +3,7 @@
 
 # Si no pueden lograr algun estilo con tailwind, creen un archivo para ese estilo y luego en reunion grupal lo pasamos a tailwind. 
 
+# Ya logramos el branch diego
 
+
+Milton Procel - final test
